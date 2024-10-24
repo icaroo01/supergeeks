@@ -116,6 +116,12 @@ main{
   background-image: url("mochilatransparente.png");
 
 }
+#img4{
+
+  background-image: url('barraca3.png')  ;    
+
+}
+
 /*.sombra{
 
   width: 200px;
@@ -147,6 +153,12 @@ main{
    width: 200px;
  
 
+
+}
+.acampamento {
+
+border-radius: 20px;
+width: 50%;
 
 }
 
